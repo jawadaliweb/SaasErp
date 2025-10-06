@@ -1,0 +1,9 @@
+{
+    "name": "modules/Accounting",
+    "description": "Accounting module for Laravel",
+    "autoload": {
+        "psr-4": {
+            "Modules\\Accounting\\": ""
+        }
+    }
+}
